@@ -23,7 +23,7 @@ Il database implementa diversi pattern avanzati e vincoli di integrità compless
 
 ##  Struttura del Database
 ### Schema Concettuale (E-R)
-<img src="diagrams/schema_concettuale.drawio.png" alt="Schema ER" width="900" height="auto">
+<img src="diagrams/Schema_concettuale.drawio.png" alt="Schema ER" width="900" height="auto">
 
 ### Schema Logico Relazionale
 ![Schema Logico](diagrams/Schema_logico.drawio.png)
